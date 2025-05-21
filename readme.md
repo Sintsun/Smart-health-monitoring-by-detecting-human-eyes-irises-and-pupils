@@ -12,7 +12,7 @@ Additionally, a pre-study assesses the effect of screen luminance on pupil size 
 ## Experiment Setup Image
 Below is an image of the experimental setup used in the study:
 
-![Experiment Setup](PersonalWebsite/images/smart-health.png)
+![Experiment Setup](/images/smart-health.png)
 
 ## Repository Contents
 - **R Scripts**:
