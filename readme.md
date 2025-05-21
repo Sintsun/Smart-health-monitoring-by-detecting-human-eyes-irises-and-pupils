@@ -9,6 +9,11 @@ The project includes two experiments:
 
 Additionally, a pre-study assesses the effect of screen luminance on pupil size to rule out confounding factors.
 
+## Experiment Setup Image
+Below is an image of the experimental setup used in the study:
+
+![Experiment Setup](PersonalWebsite/images/smart-health.png)
+
 ## Repository Contents
 - **R Scripts**:
   - `stress_analysis.R`: Main script for data processing, statistical analysis (ANOVA, sign tests, Wilcoxon signed-rank tests, McNemar's tests), and visualization (bar plots, violin plots with boxplots).
