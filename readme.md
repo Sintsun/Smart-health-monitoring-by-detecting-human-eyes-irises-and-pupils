@@ -41,7 +41,7 @@ To run the R script, ensure the following are installed:
 ## Installation and Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/stress-pupillometry.git
+   [git clone https://github.com/your-username/stress-pupillometry.git](https://github.com/Sintsun/Smart-health-monitoring-by-detecting-human-eyes-irises-and-pupils.git)
    ```
 2. Set the working directory in R:
    ```R
